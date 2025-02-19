@@ -1,0 +1,8 @@
+a=10
+b=20
+
+def newton1 (a,b):
+    return a**2 + b**2
+
+def newton2 (a,b):
+    return (a/b) + (a**2 + b**2)
